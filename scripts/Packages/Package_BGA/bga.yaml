@@ -334,3 +334,14 @@ ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm:
    mask_margin: 0.05
    layout_x: 6
    layout_y: 6
+Toshiba_P-VFBGA-80_7x7mm_Layout10x10_P0.65mm:
+   description: "Toshiba P-VFBGA-80, 0.3mm pad"
+   size_source: ""
+   body_size_x: 7
+   body_size_y: 7
+   pitch: 0.65
+   pad_diameter: 0.3
+   mask_margin: 0.05
+   layout_x: 10
+   layout_y: 10
+   row_skips: [[], [], [3, 4, 5, 6, 7, 8], [3, 8], [3, 8], [3, 8], [3, 8], [3, 4, 5, 6, 7, 8], [], []]
